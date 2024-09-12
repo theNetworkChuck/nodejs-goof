@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "adm-zip": "0.5.2",
-    "body-parser": "1.17.1",
+    "body-parser": "1.20.3",
     "cfenv": "^1.2.4",
     "consolidate": "0.14.5",
     "dustjs-helpers": "1.5.0",
@@ -24,7 +24,7 @@
     "ejs": "3.1.6",
     "ejs-locals": "1.0.2",
     "errorhandler": "1.4.3",
-    "express": "4.16.0",
+    "express": "4.21.0",
     "express-fileupload": "1.1.10",
     "express-session": "^1.17.2",
     "file-type": "^8.1.0",
