@@ -46,7 +46,7 @@
     "stream-buffers": "^3.0.1",
     "tap": "^15.0.0",
     "typeorm": "^0.2.27",
-    "validator": "^13.7.0"
+    "validator": "^13.15.22"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
